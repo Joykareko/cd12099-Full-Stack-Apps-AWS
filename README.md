@@ -23,5 +23,9 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 
 [License](LICENSE.txt)
 
-## link to the endpoint URL 
+## Link to the endpoint URL 
 [Link](http://image-filter-env.eba-g3mvmefi.us-east-1.elasticbeanstalk.com/)
+
+## Screenshot of the deployed APP on EB
+<img width="1440" height="332" alt="image" src="https://github.com/user-attachments/assets/b7025f8a-b8b4-4e7f-ab81-cd1027b04454" />
+
