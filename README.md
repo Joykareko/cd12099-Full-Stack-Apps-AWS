@@ -11,9 +11,9 @@ You can clone this repo to run the project locally, or navigate to the workspace
 
 To complete this project, you will need to:
 
-* Set up node environment
-* Create a new endpoint in the server.js file
-* Deploying your system
+* Set up node environment-Done
+* Create a new endpoint in the server.js file -Done
+* Deploying your system -Done
 
 ## Testing
 
@@ -22,3 +22,6 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+## link to the endpoint URL 
+[Link](http://image-filter-env.eba-g3mvmefi.us-east-1.elasticbeanstalk.com/)
